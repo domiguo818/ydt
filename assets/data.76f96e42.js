@@ -1,0 +1,1 @@
+import{f as t}from"./index.0639f48c.js";const a=e=>t({method:"GET",url:"/res/list",params:e}),s=e=>t({method:"GET",url:`/dw/table/${e}`}),l=e=>t({method:"GET",url:`/dw/interface/${e}`}),o=e=>t({method:"get",url:"/res/field/trace/"+e}),c=e=>t({method:"get",url:"/res/table/trace/"+e});export{l as a,s as b,c,o as d,a as g};

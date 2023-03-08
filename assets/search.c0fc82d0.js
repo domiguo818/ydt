@@ -1,0 +1,1 @@
+import{f as e}from"./index.0639f48c.js";const s=t=>e({method:"get",url:"/dw/list",params:t}),l=t=>e({method:"get",url:"/article/list",params:t}),i=t=>e({method:"get",url:"/article/"+t}),o=t=>e({method:"get",url:`/article/file/${t}`,responseType:"blob"}),a=t=>e({method:"GET",url:"/app/list",params:t});export{o as a,s as b,a as c,l as d,i as g};
